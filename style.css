@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(236, 241, 210);
+}
+
+#bienvenue {
+  height: 400px;
+  background-image: url("assets/bateau.jpg");
+  background-size: cover;
+}
